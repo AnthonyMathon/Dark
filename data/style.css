@@ -1,0 +1,23 @@
+body{ 
+  background: url(background.jpg) no-repeat center fixed; 
+  background-size: cover; 
+ }
+}
+a{
+	color:yellow
+}
+h1{
+	color:red
+}
+h2{
+	color:red
+}
+th{
+	color:#129133
+}
+td{
+	color:#FFAA00
+}
+label{
+	color:red
+}
